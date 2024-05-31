@@ -1,5 +1,5 @@
 '''
-This python file is responsible for the image processing
+This python file is  responsible for the image processing
 '''
 
 import cv2
